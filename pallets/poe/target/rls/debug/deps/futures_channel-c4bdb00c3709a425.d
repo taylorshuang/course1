@@ -1,0 +1,10 @@
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/futures_channel-c4bdb00c3709a425.rmeta: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lock.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/mod.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/queue.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/sink_impl.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/oneshot.rs
+
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/futures_channel-c4bdb00c3709a425.d: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lock.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/mod.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/queue.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/sink_impl.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/oneshot.rs
+
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lib.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lock.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/mod.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/queue.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/sink_impl.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/oneshot.rs:

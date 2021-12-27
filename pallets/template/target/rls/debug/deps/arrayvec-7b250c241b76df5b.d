@@ -1,0 +1,11 @@
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/arrayvec-7b250c241b76df5b.rmeta: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/arrayvec_impl.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/arrayvec.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/array_string.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/char.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/errors.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/utils.rs
+
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/arrayvec-7b250c241b76df5b.d: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/arrayvec_impl.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/arrayvec.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/array_string.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/char.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/errors.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/utils.rs
+
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/lib.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/arrayvec_impl.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/arrayvec.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/array_string.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/char.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/errors.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.0/src/utils.rs:

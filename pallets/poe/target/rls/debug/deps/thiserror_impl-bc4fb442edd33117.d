@@ -1,0 +1,11 @@
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/libthiserror_impl-bc4fb442edd33117.so: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs
+
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/thiserror_impl-bc4fb442edd33117.d: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs
+
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs:
