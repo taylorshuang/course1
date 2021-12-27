@@ -1,0 +1,11 @@
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/tinyvec-86e836a7088fe211.rmeta: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs
+
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/tinyvec-86e836a7088fe211.d: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs
+
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs:

@@ -1,0 +1,9 @@
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/futures_executor-92e6b4148e11894b.rmeta: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/local_pool.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/thread_pool.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/unpark_mutex.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/enter.rs
+
+/home/shuang/project/course5/substrate-node-template-transfer-claim/pallets/template/target/rls/debug/deps/futures_executor-92e6b4148e11894b.d: /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/lib.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/local_pool.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/thread_pool.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/unpark_mutex.rs /home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/enter.rs
+
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/lib.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/local_pool.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/thread_pool.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/unpark_mutex.rs:
+/home/shuang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-executor-0.3.15/src/enter.rs:
